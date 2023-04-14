@@ -1,6 +1,6 @@
 server:
   port:
-    9000
+    9001
 spring:
   application:
     name: userservice-default
